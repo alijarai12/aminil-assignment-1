@@ -2,8 +2,4 @@ Hello! this testfile.
 This a test for jenkins.
 This is a new line.
 
-edited this line.
-sfsds
-gergerg
-gfafgaw
-assfsf
+This is an example to test if the pipeline auto trigger after a commit
