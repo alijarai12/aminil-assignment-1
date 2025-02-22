@@ -6,7 +6,7 @@ pipeline {
             steps {
                 git branch: 'master', 
                     url: 'https://github.com/alijarai12/aminil-assignment-1.git', 
-                    credentialsId: 'alijarai12' 
+                    credentialsId: 'gittoken' 
             }
         }
 
